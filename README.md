@@ -7,7 +7,7 @@ This is a movie explorer application. You can view popular movies, set a movie i
 
 This application uses [The movie database](https://themoviedb.org) as it's datasource.
 
-Demo: https://master.d1cozvwafl977n.amplifyapp.com/
+Demo: https://movie-explorer-fu4303.vercel.app
 
 ## Available Scripts
 
