@@ -9,6 +9,8 @@ This application uses [The movie database](https://themoviedb.org) as it's datas
 
 Demo: https://movie-explorer-fu4303.vercel.app
 
+![movie-explorer](/public/movie-explorer.png)
+
 ## Available Scripts
 
 To run your application, you will need to change `REACT_APP_API_KEY` to your api key from [The movie database](https://themoviedb.org).<br>
